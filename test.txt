@@ -1,9 +1,0 @@
-int main() {
- evil();
- good();
- more_good();
- more_evil();
- even_more_evil();
-//[0m[5A[5M+ good();E+ more_good();E[32m+ even_more_good();[0m
-
-\u009b8Ahahaha i suck fire me!!!\u009b8B\u009b3Glol
