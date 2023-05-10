@@ -1,5 +1,3 @@
-# GitHub CLI
-
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
 
 ![screenshot of gh pr status](https://user-images.githubusercontent.com/98482/84171218-327e7a80-aa40-11ea-8cd1-5177fc2d0e72.png)
@@ -69,7 +67,7 @@ For more information, see [Linux & BSD installation](./docs/install_linux.md).
 | ------------------- | --------------------|
 | `winget install --id GitHub.cli` | `winget upgrade --id GitHub.cli` |
 
-> **Note**  
+> **Note**
 > The Windows installer modifies your PATH. When using Windows Terminal, you will need to **open a new window** for the changes to take affect. (Simply opening a new tab will _not_ be sufficient.)
 
 #### scoop
